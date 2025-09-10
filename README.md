@@ -1,2 +1,2 @@
-# TySenior.github.io
+# ShinYokai.github.io
 Portfolio Website for game development
