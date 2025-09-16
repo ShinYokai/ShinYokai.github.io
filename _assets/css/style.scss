@@ -1,11 +1,9 @@
 ---
 ---
 $header-bg-color: #4C4481
-$header-bg-color-secondary: ##7D372D
+$header-bg-color-secondary: #7D372D
 
-@import "{{ site.theme }}";
-
-.layout {
+  .layout {
   width: 100%;
 
   display: grid;
@@ -22,3 +20,6 @@ $header-bg-color-secondary: ##7D372D
 .body { grid-area: body; }
 .rightSide { grid-area: rightSide; }
 .footer { grid-area: footer; }
+
+@import "{{ site.theme }}";
+
