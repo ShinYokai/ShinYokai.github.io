@@ -1,7 +1,7 @@
 ---
 ---
-$header-bg-color: #4C4481
-$header-bg-color-secondary: #7D372D
+$header-bg-color: #4C4481 !default
+$header-bg-color-secondary: #7D372D !default
 
 @import "{{ site.theme }}";
 
